@@ -1,0 +1,8 @@
+{
+  "appId": "com.roimelhlg.mifamilia",
+  "appName": "Mi Familia",
+  "webDir": "www",
+  "android": {
+    "backgroundColor": "#1f8a70"
+  }
+}
